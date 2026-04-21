@@ -14,6 +14,8 @@ It demonstrates how to:
 - Build responsive layouts بسرعة
 - Create modern UI باستخدام ready components
 
+<img width="1898" height="914" alt="image" src="https://github.com/user-attachments/assets/c7930016-5704-4119-a0b2-929ca4f5adb6" />
+
 ---
 
 ## ⚡ Features
