@@ -1,4 +1,4 @@
-# 🚀 Kullab Bootstrap Website
+# 🚀 Bondi Bootstrap Website
 
 A modern and responsive website built باستخدام Bootstrap 5.  
 This project showcases the use of Bootstrap components, grid system, and responsive design principles to build clean and scalable user interfaces.
